@@ -1,0 +1,40 @@
+{
+  "url": "http://127.0.0.1:8081/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Hearth",
+      "hasCanvas": false,
+      "bodyTextLen": 89,
+      "bodyTextHash": "72895bc11f3d3a8eae838c76b43fa57d49b2312c3a9df7adfca8b0d4075db83e",
+      "bodyTextPrefix": "Hearth Sign in to join servers and talk in real time. Continue w",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Hearth",
+      "hasCanvas": false,
+      "bodyTextLen": 89,
+      "bodyTextHash": "72895bc11f3d3a8eae838c76b43fa57d49b2312c3a9df7adfca8b0d4075db83e",
+      "bodyTextPrefix": "Hearth Sign in to join servers and talk in real time. Continue w",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-built.json",
+  "divergesFromBaseline": true,
+  "baselineReasons": [
+    "desktop: body text changed (8 -> 89 chars, hash mismatch)"
+  ]
+}
